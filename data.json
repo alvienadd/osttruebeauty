@@ -1,4 +1,4 @@
-{
+[
     {
       "title": "Call Me Maybe",
       "artist": "Saya",
@@ -79,4 +79,4 @@
       "id": "10",
        "mediaType": "audio"
     }
-}
+]
