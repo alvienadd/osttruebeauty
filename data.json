@@ -5,7 +5,8 @@
       "artwork": "https://raw.githubusercontent.com/alvienadd/osttruebeauty/master/truebeauty.png",
       "url": "https://raw.githubusercontent.com/alvienadd/osttruebeauty/master/1-Saya-CallMeMaybe.mp3",
       "id": "1",
-      "mediaType": "audio"
+      "mediaType": "audio",
+      "duration":"205"
     },
     {
       "title": "I am in the mood for dancing",
@@ -13,7 +14,8 @@
       "artwork": "https://raw.githubusercontent.com/alvienadd/osttruebeauty/master/truebeauty.png",
       "url": "https://raw.githubusercontent.com/alvienadd/osttruebeauty/master/2-YujuGfriend-Iminthemoodfordancing.mp3",
       "id": "2",
-       "mediaType": "audio"
+       "mediaType": "audio",
+             "duration":"211"
     },
     {
       "title": "Happy Ending",
@@ -21,7 +23,8 @@
       "artwork": "https://raw.githubusercontent.com/alvienadd/osttruebeauty/master/truebeauty.png",
       "url": "https://raw.githubusercontent.com/alvienadd/osttruebeauty/master/3-CarTheGarden-HappyEnding.mp3",
       "id": "3",
-       "mediaType": "audio"
+       "mediaType": "audio",
+        "duration":"182"
     },
     {
       "title": "I am Missing You",
@@ -29,7 +32,8 @@
       "artwork": "https://raw.githubusercontent.com/alvienadd/osttruebeauty/master/truebeauty.png",
       "url": "https://raw.githubusercontent.com/alvienadd/osttruebeauty/master/4-Sunjae-ImMissingYou.mp3",
       "id": "4",
-       "mediaType": "audio"
+       "mediaType": "audio",
+        "duration":"204"
     },
     {
       "title": "Starlight",
@@ -37,7 +41,8 @@
       "artwork": "https://raw.githubusercontent.com/alvienadd/osttruebeauty/master/truebeauty.png",
       "url": "https://raw.githubusercontent.com/alvienadd/osttruebeauty/master/5-SF9Chani-Starlight.mp3",
       "id": "5",
-       "mediaType": "audio"
+       "mediaType": "audio",
+        "duration":"281"
     },
     {
       "title": "Fall In You",
@@ -45,7 +50,8 @@
       "artwork": "https://raw.githubusercontent.com/alvienadd/osttruebeauty/master/truebeauty.png",
       "url": "https://raw.githubusercontent.com/alvienadd/osttruebeauty/master/6-HaSungwoon-FallInYou.mp3",
       "id": "6",
-       "mediaType": "audio"
+       "mediaType": "audio",
+        "duration":"248"
     },
     {
       "title": "Before Today Is Over",
@@ -53,7 +59,8 @@
       "artwork": "https://raw.githubusercontent.com/alvienadd/osttruebeauty/master/truebeauty.png",
       "url": "https://raw.githubusercontent.com/alvienadd/osttruebeauty/master/7-OnfHyojin-BeforeTodayisOver.mp3",
       "id": "7",
-       "mediaType": "audio"
+       "mediaType": "audio",
+        "duration":"175"
     },
     {
       "title": "Love So Fine",
@@ -61,7 +68,8 @@
       "artwork": "https://raw.githubusercontent.com/alvienadd/osttruebeauty/master/truebeauty.png",
       "url": "https://raw.githubusercontent.com/alvienadd/osttruebeauty/master/8-ChaEunWoo-LoveSoFine.mp3",
       "id": "8",
-       "mediaType": "audio"
+       "mediaType": "audio",
+        "duration":"209"
     },
     {
       "title": "How Do You Do",
@@ -69,7 +77,8 @@
       "artwork": "https://raw.githubusercontent.com/alvienadd/osttruebeauty/master/truebeauty.png",
       "url": "https://raw.githubusercontent.com/alvienadd/osttruebeauty/master/9-SF9Chani-HowDoYouDo.mp3",
       "id": "9",
-       "mediaType": "audio"
+       "mediaType": "audio",
+        "duration":"273"
     },
     {
       "title": "It Starts Today",
@@ -77,6 +86,7 @@
       "artwork": "https://raw.githubusercontent.com/alvienadd/osttruebeauty/master/truebeauty.png",
       "url": "https://raw.githubusercontent.com/alvienadd/osttruebeauty/master/10-HwangInYeop-ItStartsToday.mp3",
       "id": "10",
-       "mediaType": "audio"
+       "mediaType": "audio",
+        "duration":"261"
     }
 ]
